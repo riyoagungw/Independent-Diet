@@ -1,0 +1,9 @@
+Anda diizinkan untuk memulai tes kapan pun Anda mau. Timer akan mulai hanya ketika Anda memulai tes. Namun ingat bahwa admin memiliki hak penuh untuk menonaktifkan tes kapan saja. Jadi dianjurkan untuk memulai tes pada waktu yang ditentukan.
+Anda dapat melihat riwayat tes yang diambil dan skor di bagian 'Riwayat'.
+Untuk memulai tes, klik 'Mulai'.
+Setelah tes dimulai, penghitung waktu akan berjalan terlepas dari status login atau login Anda. Jadi disarankan untuk tidak logout sebelum tes selesai.
+Untuk menandai jawaban, Anda harus memilihnya dan menekan tombol 'Kunci'. Setelah mengunci, jawaban yang dipilih akan ditampilkan dan pertanyaan akan ditandai "hijau"
+Untuk menghapus jawaban, tekan . <span style="color:darkred:font-size:12px" class="glyphicon glyphicon-remove"></span>.
+Gunakan tombol navigasi untuk menavigasi pertanyaan yang berbeda.
+Tanda untuk jawaban yang benar dan salah tercantum di atas dalam tabel. Nilai 0 akan diberikan untuk pertanyaan yang "tidak ditandai" (memiliki status "merah").
+Jika Anda mendapatkan beberapa kesalahan, Anda dapat menghubungi kami melalui ini untuk</a>.
